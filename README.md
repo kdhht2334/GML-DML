@@ -1,5 +1,5 @@
 # GML-DML
-A repository of Probabilistic Principal Geodesic Deep Metric Learning (IEEE Access 2022)
+A repository of "Probabilistic Principal Geodesic Deep Metric Learning".
 
 ### Note
 This research is extended version of "Deep Metric Learning with Manifold Class Variability Analysis".
